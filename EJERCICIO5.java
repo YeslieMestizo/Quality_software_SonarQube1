@@ -92,7 +92,7 @@ public class TestOscarController {
 	/**
 	 * @author
 	 * @param Person
-	 *            person pePhNumber valida el codigo sms y almacena la nueva contrase�a
+	 *            person pePhNumber valida el codigo sms y almacena la nueva contraseña contraseña
 	 * @return ResponseEntity The information for the client about the request.
 	 */
 	@RequestMapping(value = "/api/sms/recoverpassword", method = RequestMethod.POST, consumes = "application/json", produces = "application/json")
