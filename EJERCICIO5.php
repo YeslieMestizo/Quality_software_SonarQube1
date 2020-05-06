@@ -19,7 +19,7 @@ Html::headUser("Personalizar perfil");
 
 <?php
 /*
-       Aca va la barra superior
+       Aca se ubica la barra superior
 */
 include_once '../../home/navbar.php';
 ?>
